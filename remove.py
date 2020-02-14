@@ -1,0 +1,5 @@
+t=(67,45,3,2,67,78,8,89,9)
+l=list(t)
+l.pop()
+t=tuple(l)
+print(t)
